@@ -1,3 +1,3 @@
 # git_coures01
-  zero school web coures
+  (" ")zero school web coures
   ## project notes
